@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Optimize>true</Optimize>
+    <AssemblyName>cs-webhook-sign</AssemblyName>
+    <RootNamespace>webhook_sign</RootNamespace>
+    <Description>Webhook signature verification (GitHub/Stripe style)</Description>
+    <Authors>Mahmoud ElNemer</Authors>
+    <PackageProjectUrl>https://github.com/ElNeMeR70/cs-webhook-sign</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ElNeMeR70/cs-webhook-sign</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+</Project>
